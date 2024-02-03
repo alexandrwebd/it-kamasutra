@@ -1,0 +1,18 @@
+.header {
+  grid-area: h;
+  background-color: green;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+.headerLogo {
+  width: 50px;
+}
+.headerLogo img {
+  max-width: 100%;
+}
+.loginBlock a {
+  color: white;
+  text-decoration: none;
+}

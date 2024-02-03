@@ -1,0 +1,14 @@
+.userPhoto {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.selectedPage {
+    cursor: pointer;
+   font-weight: bold;
+    font-size: 17px;
+}
+.whitePage {
+    cursor: pointer;
+   font-weight: bold;
+}

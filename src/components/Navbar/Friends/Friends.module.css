@@ -1,0 +1,10 @@
+.friends{
+}
+.friendsLink{
+    margin-bottom: 20px;
+}
+.friendsList{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

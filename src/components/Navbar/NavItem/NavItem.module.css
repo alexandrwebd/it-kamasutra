@@ -1,0 +1,20 @@
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link:active {
+    color: dodgerblue;
+}
+.link.active{
+    color: dodgerblue;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.active {
+    color: dodgerblue;
+}
+.item{
+    margin-bottom: 10px;
+}

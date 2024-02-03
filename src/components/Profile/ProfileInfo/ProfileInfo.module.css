@@ -1,0 +1,12 @@
+
+.profileImg {
+  width: 100%;
+  object-fit: cover;
+  max-height: 520px;
+}
+.profileImg img {
+  max-width: 100%;
+}
+.descriptionBlock {
+  padding: 10px;
+}

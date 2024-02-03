@@ -1,0 +1,26 @@
+.friend{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.friendImg{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.friendImg img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+.friendName{
+    cursor: pointer;
+    font-size: 16px;
+}

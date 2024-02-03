@@ -1,0 +1,12 @@
+.nav {
+  grid-area: n;
+  background-color: burlywood;
+  padding: 20px;
+}
+.navItem{
+  cursor: pointer;
+  margin-bottom: 50px;}
+.navFriends{
+  color: white;
+  font-size: 24px;
+}

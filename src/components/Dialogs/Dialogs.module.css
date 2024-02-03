@@ -1,0 +1,43 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItems{
+    padding: 20px;
+}
+.dialog{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.dialog.active{
+    color: gold;
+}
+.messages{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.message{
+    font-size: 12px;
+    border-radius: 50%;
+    background-color: azure;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.messageItem2 .message {
+    background-color: antiquewhite;
+}
+.dialogImg{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.dialogImg img{
+    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
