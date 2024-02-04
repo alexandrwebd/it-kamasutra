@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/it-kamasutra/static/css/main.943c53ee.css",
-    "main.js": "/it-kamasutra/static/js/main.72351bb1.js",
+    "main.js": "/it-kamasutra/static/js/main.1a403bd7.js",
     "static/css/501.3b49d471.chunk.css": "/it-kamasutra/static/css/501.3b49d471.chunk.css",
     "static/js/501.707d1cdc.chunk.js": "/it-kamasutra/static/js/501.707d1cdc.chunk.js",
     "static/css/989.02f171bb.chunk.css": "/it-kamasutra/static/css/989.02f171bb.chunk.css",
@@ -12,7 +12,7 @@
     "static/media/Spinner-1s-200px.svg": "/it-kamasutra/static/media/Spinner-1s-200px.b0cdb26212e8eb06e5bca484808c36e8.svg",
     "index.html": "/it-kamasutra/index.html",
     "main.943c53ee.css.map": "/it-kamasutra/static/css/main.943c53ee.css.map",
-    "main.72351bb1.js.map": "/it-kamasutra/static/js/main.72351bb1.js.map",
+    "main.1a403bd7.js.map": "/it-kamasutra/static/js/main.1a403bd7.js.map",
     "501.3b49d471.chunk.css.map": "/it-kamasutra/static/css/501.3b49d471.chunk.css.map",
     "501.707d1cdc.chunk.js.map": "/it-kamasutra/static/js/501.707d1cdc.chunk.js.map",
     "989.02f171bb.chunk.css.map": "/it-kamasutra/static/css/989.02f171bb.chunk.css.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.943c53ee.css",
-    "static/js/main.72351bb1.js"
+    "static/js/main.1a403bd7.js"
   ]
 }
